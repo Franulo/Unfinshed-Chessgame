@@ -1,3 +1,3 @@
-# the_chessgame
+# Unfinshed-Chessgame
 A regular chess game with pygame.
 
